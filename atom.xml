@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>东宏的博客</title>
+  
+  
+  <link href="https://coding-ldh.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://coding-ldh.github.io/"/>
+  <updated>2022-05-10T09:30:31.470Z</updated>
+  <id>https://coding-ldh.github.io/</id>
+  
+  <author>
+    <name>donghong.li</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>websocket在项目中的使用</title>
+    <link href="https://coding-ldh.github.io/2022/05/10/blog8/"/>
+    <id>https://coding-ldh.github.io/2022/05/10/blog8/</id>
+    <published>2022-05-10T07:24:23.620Z</published>
+    <updated>2022-05-10T09:30:31.470Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在一般的管理系统中，接口的请求的通信方式http，而在今年新接触的机器人系统部署管理工具中，运形的模式是上位机和本体底盘的通信(可以把机器人底盘看作一台主机服务器)，运用的通信方式要求是websocket，相对于ajax，websocket是一种全双工的同信，需要根据项目进</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>观察者模式与发布/订阅模式区别</title>
+    <link href="https://coding-ldh.github.io/2022/01/19/blog7/"/>
+    <id>https://coding-ldh.github.io/2022/01/19/blog7/</id>
+    <published>2022-01-19T06:12:19.378Z</published>
+    <updated>2022-01-19T07:02:40.418Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在学习设计模式的时候，观察者（Observer）模式和发布（Publish）/订阅（Subscribe）模式在概念上存在一定的相似度，而两者之间其实是存在差异的，本质上的区别就是调度的地方不同。&lt;/p&gt;
+&lt;h3 id=&quot;观察者模式&quot;&gt;&lt;a href=&quot;#观察者模式&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>代码中if-else的优化</title>
+    <link href="https://coding-ldh.github.io/2022/01/10/blog6/"/>
+    <id>https://coding-ldh.github.io/2022/01/10/blog6/</id>
+    <published>2022-01-10T01:04:57.850Z</published>
+    <updated>2022-01-11T02:27:50.746Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>如何实现扫码登录功能</title>
+    <link href="https://coding-ldh.github.io/2022/01/07/blog5/"/>
+    <id>https://coding-ldh.github.io/2022/01/07/blog5/</id>
+    <published>2022-01-07T03:25:42.106Z</published>
+    <updated>2022-01-07T06:05:53.621Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;扫码登录场景&quot;&gt;&lt;a href=&quot;#扫码登录场景&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Vue中避免滥用this去读区data中数据</title>
+    <link href="https://coding-ldh.github.io/2022/01/05/blog4/"/>
+    <id>https://coding-ldh.github.io/2022/01/05/blog4/</id>
+    <published>2022-01-05T02:14:37.493Z</published>
+    <updated>2022-01-07T03:24:53.741Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Node.js 如何处理 ES6 模块</title>
+    <link href="https://coding-ldh.github.io/2021/12/23/blog3/"/>
+    <id>https://coding-ldh.github.io/2021/12/23/blog3/</id>
+    <published>2021-12-23T01:39:11.759Z</published>
+    <updated>2021-12-23T01:55:42.934Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;javascript的模块化有两种方式，一种Es6模块，另一种是CommandJS模块，这两种模块化方式是不兼容的。&lt;br&gt;很多人在使用Node.js的时候，只会使用require()加载模块，遇到Es6就不知道怎么使用了，本文将谈谈如何在Node中使用Es6模块加载。&lt;/</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>js原生方法学习</title>
+    <link href="https://coding-ldh.github.io/2021/12/10/blog2/"/>
+    <id>https://coding-ldh.github.io/2021/12/10/blog2/</id>
+    <published>2021-12-10T10:26:41.806Z</published>
+    <updated>2021-12-22T02:08:51.943Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在前端开发中，我们会用到很多 javascript</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>javascript继承的方式</title>
+    <link href="https://coding-ldh.github.io/2021/12/07/blog1/"/>
+    <id>https://coding-ldh.github.io/2021/12/07/blog1/</id>
+    <published>2021-12-07T00:56:16.745Z</published>
+    <updated>2021-12-30T02:19:24.244Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;最近项目比较空闲，趁着有多余的时间自己搭建了博客官网，整理出来javascript的继承方式&lt;/p&gt;
+&lt;h3 id=&quot;1、原型继承&quot;&gt;&lt;a href=&quot;#1、原型继承&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
